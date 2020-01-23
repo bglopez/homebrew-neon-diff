@@ -1,4 +1,4 @@
-class neondiff < Formula
+class Neondiff < Formula
   desc "Application to colorize unified diffs"
   homepage "https://github.com/maxrd2/neon-diff"
   url "https://github.com/maxrd2/neon-diff/archive/master.zip"
